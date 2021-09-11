@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mokkiebear (Max Rubanov)
+- 👀 I’m interested in programming, business, learning
+- 📫 How to reach me: mirubanov@gmail.com
