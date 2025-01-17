@@ -31,6 +31,16 @@
 
 ## 📌 **Pinned Projects**
 
+### [Heatmap-Tracker-Obsidian](https://github.com/mokkiebear/heatmap-tracker)
+🔥 A lightweight **plugin for Obsidian**, enabling users to visualize their daily activity as a heatmap.
+Key Features:
+- Visual representation of daily activity.
+- Customizable color schemes for heatmap cells.
+- Seamless integration with Obsidian’s core functionality.
+Tech Stack: TypeScript, React, Obsidian API.
+
+---
+
 ### [AudioService-React.js](https://github.com/mokkiebear/AudioService-React.js)  
 🎵 **A training project** developed during my internship, showcasing **React** and **Node.js** skills.  
 Key Features:  
