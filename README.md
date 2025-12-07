@@ -84,7 +84,7 @@ Tech Stack: Angular, TypeScript, PostgreSQL.
 ## 📬 **Let's Connect**  
 
 📧 Email: [mirubanov@gmail.com](mailto:mirubanov@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/maxim-rubanov](http://linkedin.com/in/maxim-rubanov)  
+💼 LinkedIn: [linkedin.com/in/mrubanau](https://www.linkedin.com/in/mrubanau)  
 🌐 Website/Portfolio: [bymaxxi.blog](https://bymaxxi.blog)
 
 ---
