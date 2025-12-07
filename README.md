@@ -59,14 +59,6 @@ Tech Stack: Angular, TypeScript, PostgreSQL.
 
 ---
 
-## 📈 **GitHub Stats**  
-
-[![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokkiebear&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokkiebear&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## ✨ **Achievements**  
 - 🎓 **Bachelor's Degree in Information Technologies and Software Development**, Gomel State University (2016-2020).  
   - GPA: **9.53 / 10**.  
@@ -86,9 +78,3 @@ Tech Stack: Angular, TypeScript, PostgreSQL.
 📧 Email: [mirubanov@gmail.com](mailto:mirubanov@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/mrubanau](https://www.linkedin.com/in/mrubanau)  
 🌐 Website/Portfolio: [bymaxxi.blog](https://bymaxxi.blog)
-
----
-
-## 📌 **Current Goals**  
-1. **Open-Source**: Actively contributing to popular React and TypeScript repositories. 
-2. **Skill Expansion**: Diving deeper into Rust for building performant backend services and system-level programming..
