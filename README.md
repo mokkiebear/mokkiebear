@@ -1,79 +1,77 @@
-# Hi there! 👋 I'm Maksim Rubanau (mokkiebear)
+# Maksim Rubanau
 
-🚀 **Experienced Frontend Engineer** with 5+ years of professional experience in **React**, **TypeScript**, and building high-performance applications for global audiences.  
+**Frontend Engineer — React · TypeScript · large-scale e-commerce**
+Vienna, Austria
 
-🎯 Currently, I’m working on enhancing **e-commerce** performance and scaling solutions for high-traffic platforms.
-
-🌱 **What I'm working on**:
-- Building scalable, accessible web applications using modern web technologies.
-- Exploring advanced **System Design** and **Architecture** techniques.
-
-🤝 **Looking for collaboration**:
-- Open-source projects that align with **React**, **TypeScript**, or **JavaScript**.
-- Innovative web applications with a focus on UX and performance.
+[LinkedIn](https://www.linkedin.com/in/mrubanau) · [mirubanov@gmail.com](mailto:mirubanov@gmail.com)
 
 ---
 
-## 🔧 **Tech Stack**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 
+I'm a frontend engineer with 6+ years in React and TypeScript, currently on the platform tech team at [Netconomy](https://www.netconomy.net) in Vienna. My team is accountable for the **stability** of a large e-commerce platform rather than for shipping features — production investigations, security fixes, architecture work, and load readiness for peak seasons like Black Friday.
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)  
+Most of that work happens in a 700k+ LOC codebase maintained by an 80+ engineer team, which has taught me more about incremental change, blast radius, and debugging things nobody has scoped yet than any greenfield project could.
 
----
+Outside of work I maintain **Heatmap Tracker**, an Obsidian plugin with 40k+ downloads and 220+ stars.
 
-## 📌 **Pinned Projects**
+## Featured work
 
-### [Heatmap-Tracker-Obsidian](https://github.com/mokkiebear/heatmap-tracker)
-🔥 A lightweight **plugin for Obsidian**, enabling users to visualize their daily activity as a heatmap.
-Key Features:
-- Visual representation of daily activity.
-- Customizable color schemes for heatmap cells.
-- Seamless integration with Obsidian’s core functionality.
-Tech Stack: TypeScript, React, Obsidian API.
+### [Heatmap Tracker](https://github.com/mokkiebear/heatmap-tracker) — Obsidian plugin
 
----
+A customizable plugin for tracking, visualizing, and analyzing any data over a calendar year inside Obsidian. Built with Preact, React, and i18n for multi-language support.
 
-### [AudioService-React.js](https://github.com/mokkiebear/AudioService-React.js)  
-🎵 **A training project** developed during my internship, showcasing **React** and **Node.js** skills.  
-Key Features:  
-- Dynamic audio processing.  
-- Backend integration with Node.js.  
-Tech Stack: React, Node.js, MongoDB.  
+- 40k+ downloads · 220+ stars
+- Configurable color schemes, ranges, and data sources
+- Maintained in public: issue triage, releases, and community feature requests
 
----
+`TypeScript` `Preact` `React` `Obsidian API`
 
-### [Scrum-Controller-Angular](https://github.com/mokkiebear/Scrum-Controller-Angular)  
-📊 **Agile project management tool** built with **Angular** and **TypeScript**, enabling efficient sprint management.  
-Key Features:  
-- Kanban-style board for task tracking.  
-- JWT-based authentication.  
-Tech Stack: Angular, TypeScript, PostgreSQL.  
+### [NemStudy](https://nemstudy.com) — German learning platform
 
----
+A free German-learning app for Russian speakers, covering A1.1 to B1.2 on the CEFR scale. Designed, built, and shipped solo — product, frontend, content structure, and SEO. *(Interface in Russian; source private.)*
 
-## ✨ **Achievements**  
-- 🎓 **Bachelor's Degree in Information Technologies and Software Development**, Gomel State University (2016-2020).  
-  - GPA: **9.53 / 10**.  
-  - Winner of the **XXVII Republican Contest of Scientific Works**, awarded by the Presidential Fund for Gifted Students.
-- 📜 Completed advanced professional courses:  
-  - **Complete Web Developer in 2025: Zero to Mastery**  
-  - **JavaScript: The Advanced Concepts**  
-  - **Prompt Engineering Bootcamp (Working with LLMs)**  
-  - **WebAssembly: A Practical Guide**  
-  - **The Complete Junior to Senior Web Developer Roadmap**  
-  - **Complete React Developer w/ Redux, Hooks, and GraphQL**.  
+- Grammar reference with structured tables and examples, a spaced-repetition vocabulary trainer, and pronunciation practice
+- Local-first by design: progress lives in the browser, with optional Google sign-in for cross-device sync — nothing leaves the device unless you ask it to
+- Server-rendered and indexed, with Open Graph metadata and per-section routing
 
----
+`Next.js` `TypeScript` `React` <!-- add anything else worth naming: styling, auth, storage -->
 
-## 📬 **Let's Connect**  
+### [AudioService](https://github.com/mokkiebear/AudioService-React.js) — audio streaming service
 
-📧 Email: [mirubanov@gmail.com](mailto:mirubanov@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/mrubanau](https://www.linkedin.com/in/mrubanau)  
+Full-stack streaming app with authentication, performance tuning, and a test suite. Built end to end as an early full-stack project.
+
+`React` `Express` `MongoDB`
+
+## Experience
+
+| | |
+|---|---|
+| **Netconomy**, Vienna | Frontend Engineer · Apr 2023 – Present |
+| **TeDo** (former PwC Moscow) | Senior Frontend Developer · May 2022 – Apr 2023 |
+| **PricewaterhouseCoopers** | Frontend Developer · May 2021 – May 2022 |
+| **IBA Gomel** | Frontend Developer · Aug 2019 – May 2021 |
+
+Selected work: onboarding flow for a Capacitor mobile app that cut permission denials from 40% to ~20% · per-tab navigation history giving each tab an independent back stack · micro-frontend dashboard with G2Plot charts, virtualization, and memoization · interactive D3.js visualizations with filtering and scaling.
+
+Full history on [LinkedIn](https://www.linkedin.com/in/mrubanau) — happy to send a CV on request.
+
+## Tech
+
+**Languages** TypeScript, JavaScript, HTML, CSS/SCSS
+
+**Frontend** React, React Native, Next.js, Redux, RxJS / Redux Observable, GraphQL, Capacitor, D3.js, SSR, micro-frontends, i18n
+
+**Quality** Jest, Vitest, React Testing Library, Cypress, Playwright, Core Web Vitals, accessibility (WCAG)
+
+**Platform** Node.js, Express, Webpack, Docker, CI/CD (GitHub Actions, GitLab CI), Grafana
+
+## Education
+
+**Gomel State University** — BSc (Hons), Information Technologies and Software, 2016–2020 · GPA 9.53/10
+
+Winner of the XXVII Republican Contest of Scientific Works, awarded by the Presidential Fund for Gifted Students.
+
+## Elsewhere
+
+Open to open-source collaboration on React/TypeScript tooling, and to conversations about frontend architecture at scale.
+
+📧 [mirubanov@gmail.com](mailto:mirubanov@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mrubanau)
